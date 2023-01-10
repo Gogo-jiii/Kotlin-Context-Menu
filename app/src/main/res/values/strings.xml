@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Context Menu</string>
+    <string name="one">One</string>
+    <string name="two">Two</string>
+    <string name="three">Three</string>
+    <string name="show_context_menu">show context menu</string>
+</resources>
